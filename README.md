@@ -28,3 +28,13 @@ Learn advanced machine learning techniques and algorithms and how to package and
 
 
 Learn cutting-edge computer vision and deep learning techniques—from basic image processing, to building and customizing convolutional neural networks. Apply these concepts to vision tasks such as automatic image captioning and object tracking, and build a robust portfolio of computer vision projects.
+
+
+
+.
+
+![image](https://user-images.githubusercontent.com/36210723/66694758-b91b6600-ecbf-11e9-9d21-d36313861f9b.png)
+
+
+
+.
