@@ -2,7 +2,7 @@
 .
 
 
-# [School of Artificial Intelligence](https://www.udacity.com/school-of-ai)
+# [Artificial Intelligence School](https://www.udacity.com/school-of-ai)
 
 
 ## [Deep Learning](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
