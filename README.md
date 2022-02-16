@@ -20,6 +20,13 @@ Become an expert in neural networks, and learn to implement them using the deep 
 Learn advanced machine learning techniques and algorithms and how to package and deploy your models to a production environment. Gain practical experience using Amazon SageMaker to deploy trained models to a web application and evaluate the performance of your models. A/B test models and learn how to update the models as you gather more data, an important skill in industry
 
 
+
+.
+
+
+
+> ![Machine Learning Engineer](https://user-images.githubusercontent.com/36210723/154186422-24514467-3e56-45b9-a24f-2adc3bf5b834.png)
+> 
 .
 
 
