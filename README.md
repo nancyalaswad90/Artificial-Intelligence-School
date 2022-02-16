@@ -14,6 +14,11 @@ Become an expert in neural networks, and learn to implement them using the deep 
 .
 
 
+> ![Deep Learning](https://user-images.githubusercontent.com/36210723/154186720-5631dc49-7d61-4b4b-b139-1388bb47cbd5.png)
+
+.
+
+
 ## [Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
 
 
