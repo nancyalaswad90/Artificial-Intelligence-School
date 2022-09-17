@@ -4,6 +4,19 @@
 
 # [Artificial Intelligence School](https://www.udacity.com/school-of-ai)
 
+.
+
+> # [Introduction to Machine Learning with TensorFlow](https://confirm.udacity.com/7HAPG67K)
+
+> ========================================================
+
+
+
+.
+
+![Introduction to Machine Learning with TensorFlow](https://user-images.githubusercontent.com/36210723/190434282-22fd4514-b720-48ce-823e-4c0959cdb665.png)
+
+.
 
 ## [Deep Learning](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 
@@ -48,19 +61,6 @@ Learn cutting-edge computer vision and deep learning techniques—from basic ima
 ![cv](https://user-images.githubusercontent.com/36210723/119091532-e7bdfe80-ba15-11eb-887a-9ccb950006a2.png)
 
 
-
-.
-.
-
-> # [Introduction to Machine Learning with TensorFlow](https://confirm.udacity.com/7HAPG67K)
-
-> ========================================================
-
-
-
-.
-
-![Introduction to Machine Learning with TensorFlow](https://user-images.githubusercontent.com/36210723/190434282-22fd4514-b720-48ce-823e-4c0959cdb665.png)
 
 .
 
