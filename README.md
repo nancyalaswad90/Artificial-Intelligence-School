@@ -82,3 +82,4 @@ Learn cutting-edge computer vision and deep learning techniques—from basic ima
    
 ###  Mahara-Tech: [MACHINE LEARNING (DEEP LEARNING)](https://maharatech.gov.eg/course/index.php?categoryid=5)
 
+### [Resources in great English](https://www.youtube.com/playlist?list=PLTWMfSykrrxfwhr-DdvX2Yzt8gNoILCFA)
